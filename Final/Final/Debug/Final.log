@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\khans\OneDrive - Swinburne University\DSP\Final\Final\TernaryTree.h(63): warning C4715: 'TernaryTree<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::remove': not all control paths return a value
+C:\Users\khans\OneDrive - Swinburne University\DSP\Final\Final\TernaryTree.h(91): warning C4715: 'TernaryTree<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::height': not all control paths return a value
+  Final.vcxproj -> C:\Users\khans\OneDrive - Swinburne University\DSP\Final\Final\Debug\Final.exe
